@@ -6,8 +6,6 @@
 
 - 🎂 2002.06.18  
 
-- 📞 010-8617-6232
-
 - 📧 hnjwnaio@gmail.com
   
   <p align="left">
