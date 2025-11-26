@@ -61,7 +61,7 @@
 
 ## 🧩 Skills
 
-- **Languages**: C/C++, Java, Python 
-- **Frameworks/Tools**: Git, Figma
+- **Languages**: C/C++, Java, Python, JavaScript
+- **Frameworks/Tools**: Django, Vue, Git, Figma
 - **DB/Cloud**: MySQL
 - **Etc**: Notion, Excel
