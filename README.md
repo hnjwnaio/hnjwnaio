@@ -10,9 +10,7 @@
   
   <p align="left">
   🐙 <a href="https://github.com/hnjwnaio" target="_blank">GitHub</a>  | 
-  ✍️ <a href="https://velog.io/@hnjwnaio" target="_blank">Velog</a>  | 
-  📖 <a href="https://ooh-ung.tistory.com/" target="_blank">Tistory</a>  | 
-  📝 <a href="https://blog.naver.com/ooh-ung" target="_blank">Naver Blog</a>
+  ✍️ <a href="https://velog.io/@hnjwnaio" target="_blank">Velog</a>
   </p>
 
 ---
